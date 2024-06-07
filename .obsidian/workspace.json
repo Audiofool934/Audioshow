@@ -15,7 +15,7 @@
               "state": {
                 "file": "📻/📻.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d16e308f37b626d8",
@@ -149,18 +148,19 @@
   },
   "active": "c3ede3b628838a1c",
   "lastOpenFiles": [
-    "📻/Covers/EP_8_Honky Château.jpg",
-    "📻/Covers/EP_7_Wish You Were Here.jpg",
-    "📻/Covers/EP_7Wish You Were Here.jpg",
-    "📻/Covers/EP_6_The Beatles (The White Album).jpg",
-    "📻/Covers/Wish You Were Here.jpg",
-    "📻/Covers/The Beatles (The White Album).jpg",
-    "The Beatles (The White Album).jpg",
-    "Wish You Were Here.jpg",
-    "📻/Covers/EP_4_Rumours.jpg",
-    "📻/Covers/Rumours.jpg",
-    "Look Up.jpg",
+    "📻/Covers/EP_26_Thoroughbred.jpg",
     "📻/📻.md",
+    "📻/Covers/EP_30_OK Computer.jpg",
+    "📻/Covers/EP_25_Paranoid.jpg",
+    "📻/Covers/EP_23_American Pie.jpg",
+    "📻/Covers/EP_21_Something Else By the Kinks.jpg",
+    "📻/Covers/EP_20_Quadrophenia.jpg",
+    "📻/Covers/EP_18_The Band.jpg",
+    "📻/Covers/EP_17_The Wall.jpg",
+    "📻/Covers/EP_15_Pronounced Leh-Nerd Skin-Nerd.jpg",
+    "📻/Covers/EP_14_Amused to Death.jpg",
+    "📻/Covers/EP_13_Harvest.jpg",
+    "145608",
     "📻/Covers",
     "📻/media",
     "media",
